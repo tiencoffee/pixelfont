@@ -1,0 +1,52 @@
+*, *:before, *:after
+	box-sizing border-box
+::-webkit-scrollbar
+	appearance none
+	width 16px
+	height 16px
+	background #eee
+::-webkit-scrollbar-thumb
+	background #bbb
+	&:active
+		background #888
+:focus
+	outline 0
+@import "//fonts.googleapis.com/css?family=Barlow:500,700"
+body
+	margin 0
+	font 15px "Barlow",sans-serif
+	font-weight 500
+	user-select none
+	cursor default
+.main
+	position absolute
+	inset 0
+	display flex
+.pages
+	width 15%
+	padding 4px 8px
+	overflow auto
+.page
+	padding 4px 0
+	border-top solid 1px #ddd
+	&:first-child
+		border-top 0
+.page-range
+	font-size 10px
+	color #888
+.glyphs
+	width 30%
+	display grid
+	grid-template-columns repeat(auto-fit,minmax(48px,auto))
+	grid-auto-rows 48px
+	text-align center
+	overflow auto
+.glyph
+	display flex
+	flex-direction column
+	justify-content center
+	align-items center
+.glyph-chr
+	font-size 20px
+.view
+	flex-grow 1
