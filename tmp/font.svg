@@ -1,0 +1,3154 @@
+<?xml version="1.0"?>
+<svg width="100%" height="100%" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<defs>
+	<font id="Pixel" horiz-adv-x="6">
+		<font-face
+			units-per-em="1000"
+			cap-height="7"
+			x-height="5"
+			ascent="10"
+			descent="-3"
+			unicode-range="U+20-1F9C0"
+			font-family="Pixel"
+			font-style="Regular"
+			panose-1="2 0 0 0 0 0 0 0 0 0"
+			designer=""
+			designerURL=""
+			manufacturer="pixelfont"
+			manufacturerURL="https://pixelfont.now.sh"
+			license=""
+			licenseURL=""
+			version=""
+			description=""
+			copyright=""
+			trademark=""
+			font-variant="normal"
+			font-weight=""
+			font-stretch="normal"
+			stemv=""
+			stemh=""
+			slope=""
+			underline-position=""
+			underline-thickness=""
+			strikethrough-position=""
+			strikethrough-thickness=""
+			overline-position=""
+			overline-thickness="">
+			<font-face-src>
+				<font-face-name name="Pixel"/>
+			</font-face-src>
+		</font-face><glyph
+	unicode="!"
+	d="M0,0h1v1h-1zM0,2h1v5h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="&#x0022;"
+	d="M0,4h1v3h-1zM2,4h1v3h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="#"
+	d="M1,0h1v7h-1zM3,0h1v7h-1zM0,3v-1h5v1zM0,5v-1h5v1z"
+/><glyph
+	unicode="$"
+	d="M1-1h1v2h-1zM2,0h1v1h-1zM0,1h1v1h-1zM3,1h1v2h-1zM1,4v-1h2v1zM0,4h1v2h-1zM3,5h1v1h-1zM1,6h1v2h-1zM2,6h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="%"
+	d="M0,0h1v1h-1zM3,0h1v2h-1zM4,0h1v2h-1zM1,1h1v2h-1zM2,3h1v1h-1zM3,4h1v2h-1zM0,5h1v2h-1zM1,5h1v2h-1zM4,6h1v1h-1z"
+/><glyph
+	unicode="&#x0026;"
+	d="M1,1v-1h2v1zM4,0h1v1h-1zM0,1h1v3h-1zM3,1h1v1h-1zM2,2h1v3h-1zM4,2h1v1h-1zM1,4h1v3h-1zM3,5h1v2h-1zM2,6h1v1h-1z"
+/><glyph
+	unicode="&#x0027;"
+	d="M0,4h1v3h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="("
+	d="M2-1h1v1h-1zM1,0h1v2h-1zM0,2h1v3h-1zM1,5h1v2h-1zM2,7h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode=")"
+	d="M0-1h1v1h-1zM1,0h1v2h-1zM2,2h1v3h-1zM1,5h1v2h-1zM0,7h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="*"
+	d="M2,1h1v5h-1zM0,2h1v1h-1zM4,2h1v1h-1zM1,4v-1h3v1zM0,4h1v1h-1zM4,4h1v1h-1z"
+/><glyph
+	unicode="+"
+	d="M2,0h1v5h-1zM0,3v-1h5v1z"
+/><glyph
+	unicode=","
+	d="M0-1h1v1h-1zM1,0h1v2h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="-"
+	d="M0,3v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="."
+	d="M0,0h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="/"
+	d="M0-1h1v3h-1zM1,2h1v3h-1zM2,5h1v3h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="0"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,3h1v1h-1zM2,4h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="1"
+	d="M2,0h1v7h-1zM0,4h1v1h-1zM1,5h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="2"
+	d="M0,1v-1h4v1zM1,1h1v1h-1zM2,2h1v1h-1zM3,3h1v3h-1zM0,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="3"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,5v-1h2v1zM3,5h1v2h-1zM0,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="4"
+	d="M3,0h1v4h-1zM0,2v-1h5v1zM0,2h1v1h-1zM1,3h1v2h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="5"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v3h-1zM0,4h1v3h-1zM1,5v-1h2v1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="6"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v2h-1zM1,4v-1h2v1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="7"
+	d="M1,0h1v2h-1zM2,2h1v2h-1zM3,4h1v3h-1zM0,5h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="8"
+	d="M1,1v-1h2v1zM0,1h1v2h-1zM3,1h1v2h-1zM1,4v-1h2v1zM0,4h1v2h-1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="9"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v5h-1zM1,4v-1h2v1zM0,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode=":"
+	d="M0,0h1v1h-1zM0,4h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode=";"
+	d="M0-1h1v1h-1zM1,0h1v2h-1zM1,4h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="&#x003C;"
+	d="M2,0h1v1h-1zM1,1h1v1h-1zM0,2h1v1h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="="
+	d="M0,2v-1h4v1zM0,4v-1h4v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="&#x003E;"
+	d="M0,0h1v1h-1zM1,1h1v1h-1zM2,2h1v1h-1zM1,3h1v1h-1zM0,4h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="?"
+	d="M1,0h1v1h-1zM1,2h1v1h-1zM2,3h1v1h-1zM3,4h1v2h-1zM0,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="@"
+	d="M1,0v-1h3v1zM0,0h1v5h-1zM2,1h1v3h-1zM3,2v-1h2v1zM4,2h1v3h-1zM3,3h1v1h-1zM1,6v-1h3v1z"
+/><glyph
+	unicode="A"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="B"
+	d="M0,0h1v7h-1zM1,1v-1h2v1zM3,1h1v2h-1zM1,4v-1h2v1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="C"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v1h-1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="D"
+	d="M0,0h1v7h-1zM1,0h1v1h-1zM2,1h1v1h-1zM3,2h1v3h-1zM2,5h1v1h-1zM1,6h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="E"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="F"
+	d="M0,0h1v7h-1zM1,4v-1h2v1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="G"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v3h-1zM2,3h1v1h-1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="H"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,4v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="I"
+	d="M0,0h1v7h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="J"
+	d="M1,1v-1h2v1zM0,1h1v2h-1zM3,1h1v6h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="K"
+	d="M0,0h1v7h-1zM3,0h1v2h-1zM2,2h1v1h-1zM1,3h1v1h-1zM2,4h1v1h-1zM3,5h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="L"
+	d="M0,0h1v7h-1zM1,1v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="M"
+	d="M0,0h1v7h-1zM4,0h1v7h-1zM2,2h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1z"
+/><glyph
+	unicode="N"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM2,2h1v2h-1zM1,4h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="O"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="P"
+	d="M0,0h1v7h-1zM1,4v-1h2v1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Q"
+	d="M2-1h1v2h-1zM3-1h1v1h-1zM1,0h1v1h-1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="R"
+	d="M0,0h1v7h-1zM3,0h1v2h-1zM2,2h1v2h-1zM1,3h1v1h-1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="S"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v2h-1zM1,4v-1h2v1zM0,4h1v2h-1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="T"
+	d="M2,0h1v7h-1zM0,7v-1h5v1z"
+/><glyph
+	unicode="U"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="V"
+	d="M2,0h1v2h-1zM1,2h1v3h-1zM3,2h1v3h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="W"
+	d="M1,0h1v3h-1zM3,0h1v3h-1zM0,2h1v5h-1zM2,2h1v4h-1zM4,2h1v5h-1z"
+/><glyph
+	unicode="X"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v1h-1zM3,2h1v1h-1zM2,3h1v1h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="Y"
+	d="M2,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="Z"
+	d="M0,1v-1h4v1zM0,1h1v1h-1zM1,2h1v1h-1zM2,3h1v2h-1zM3,5h1v2h-1zM0,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="["
+	d="M0-1h1v9h-1zM1-1h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="\"
+	d="M2-1h1v3h-1zM1,2h1v3h-1zM0,5h1v3h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="]"
+	d="M0,0v-1h2v1zM1,0h1v8h-1zM0,7h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="^"
+	d="M0,4h1v1h-1zM4,4h1v1h-1zM1,5h1v1h-1zM3,5h1v1h-1zM2,6h1v1h-1z"
+/><glyph
+	unicode="_"
+	d="M0,0v-1h4v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="`"
+	d="M1,5h1v1h-1zM0,6h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="a"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="b"
+	d="M0,0h1v7h-1zM1,1v-1h2v1zM3,1h1v3h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="c"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v1h-1zM3,3h1v1h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="d"
+	d="M1,1v-1h3v1zM0,1h1v3h-1zM3,1h1v6h-1zM2,3h1v1h-1zM1,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="e"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="f"
+	d="M1,0h1v6h-1zM0,5v-1h3v1zM2,6h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="g"
+	d="M1-1v-1h2v1zM3-1h1v6h-1zM1,1v-1h2v1zM0,1h1v3h-1zM2,3h1v1h-1zM1,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="h"
+	d="M0,0h1v7h-1zM3,0h1v4h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="i"
+	d="M0,0h1v5h-1zM0,6h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="j"
+	d="M0-2h1v1h-1zM1-1h1v6h-1zM1,6h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="k"
+	d="M0,0h1v7h-1zM3,0h1v1h-1zM2,1h1v1h-1zM1,2h1v1h-1zM2,3h1v1h-1zM3,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="l"
+	d="M1,0h1v1h-1zM0,1h1v6h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="m"
+	d="M0,0h1v5h-1zM2,0h1v4h-1zM4,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1z"
+/><glyph
+	unicode="n"
+	d="M0,0h1v5h-1zM3,0h1v4h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="o"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="p"
+	d="M0-2h1v7h-1zM1,1v-1h2v1zM3,1h1v3h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="q"
+	d="M3-2h1v7h-1zM1,1v-1h2v1zM0,1h1v3h-1zM2,3h1v1h-1zM1,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="r"
+	d="M0,0h1v5h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="s"
+	d="M0,1v-1h3v1zM3,1h1v1h-1zM1,3v-1h2v1zM0,3h1v1h-1zM1,5v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="t"
+	d="M2,0h1v1h-1zM1,1h1v6h-1zM0,5v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="u"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="v"
+	d="M2,0h1v1h-1zM1,1h1v2h-1zM3,1h1v2h-1zM0,3h1v2h-1zM4,3h1v2h-1z"
+/><glyph
+	unicode="w"
+	d="M1,0h1v2h-1zM3,0h1v2h-1zM0,2h1v3h-1zM2,2h1v3h-1zM4,2h1v3h-1z"
+/><glyph
+	unicode="x"
+	d="M0,0h1v1h-1zM4,0h1v1h-1zM1,1h1v1h-1zM3,1h1v1h-1zM2,2h1v1h-1zM1,3h1v1h-1zM3,3h1v1h-1zM0,4h1v1h-1zM4,4h1v1h-1z"
+/><glyph
+	unicode="y"
+	d="M1-1v-1h2v1zM3-1h1v6h-1zM1,0h1v1h-1zM0,1h1v4h-1zM2,1h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="z"
+	d="M0,1v-1h4v1zM1,1h1v1h-1zM2,2h1v1h-1zM3,3h1v2h-1zM0,5v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="{"
+	d="M1-1h1v4h-1zM2-1h1v1h-1zM0,3h1v1h-1zM1,4h1v4h-1zM2,7h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="|"
+	d="M0-1h1v9h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="}"
+	d="M0,0v-1h2v1zM1,0h1v3h-1zM2,3h1v1h-1zM1,4h1v4h-1zM0,7h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="~"
+	d="M0,2h1v2h-1zM2,3v-1h2v1zM1,3h1v1h-1zM3,3h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="¡"
+	d="M0-2h1v5h-1zM0,4h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="¢"
+	d="M1,0h1v2h-1zM2,1h1v1h-1zM0,2h1v3h-1zM3,2h1v1h-1zM3,4h1v1h-1zM1,5h1v2h-1zM2,5h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="£"
+	d="M0,1v-1h5v1zM1,1h1v5h-1zM0,4v-1h4v1zM4,5h1v1h-1zM2,7v-1h2v1z"
+/><glyph
+	unicode="¤"
+	d="M0,0h1v1h-1zM4,0h1v1h-1zM1,1h1v3h-1zM2,2v-1h2v1zM3,2h1v2h-1zM2,3h1v1h-1zM0,4h1v1h-1zM4,4h1v1h-1z"
+/><glyph
+	unicode="¥"
+	d="M2,0h1v4h-1zM0,2v-1h5v1zM0,4v-1h5v1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="¦"
+	d="M0-1h1v4h-1zM0,4h1v4h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="§"
+	d="M1,0v-1h2v1zM0,0h1v1h-1zM3,0h1v2h-1zM1,3v-1h2v1zM0,3h1v1h-1zM3,3h1v1h-1zM1,5v-1h2v1zM0,5h1v2h-1zM3,6h1v1h-1zM1,8v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="¨"
+	d="M0,6h1v1h-1zM2,6h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="©"
+	d="M1,1v-1h4v1zM0,1h1v5h-1zM5,1h1v5h-1zM2,2h1v3h-1zM3,2h1v1h-1zM3,4h1v1h-1zM1,7v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ª"
+	d="M0,2v-1h3v1zM0,4v-1h3v1zM0,5v-1h3v1zM2,5h1v1h-1zM0,7v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="«"
+	d="M1,1h1v1h-1zM4,1h1v1h-1zM0,2h1v1h-1zM3,2h1v1h-1zM1,3h1v1h-1zM4,3h1v1h-1z"
+/><glyph
+	unicode="¬"
+	d="M3,1h1v2h-1zM0,3v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="®"
+	d="M1,4v-1h4v1zM0,4h1v3h-1zM2,4h1v4h-1zM4,5v-1h2v1zM3,5h1v3h-1zM5,5h1v2h-1zM1,8v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="¯"
+	d="M0,7v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="°"
+	d="M0,4h1v3h-1zM1,5v-1h2v1zM2,5h1v2h-1zM1,6h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="±"
+	d="M0,1v-1h5v1zM2,2h1v5h-1zM0,5v-1h5v1z"
+/><glyph
+	unicode="²"
+	d="M0,6v-1h3v1zM1,6h1v1h-1zM2,7h1v1h-1zM0,9v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="³"
+	d="M0,6v-1h2v1zM2,6h1v2h-1zM1,7h1v2h-1zM0,8h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="´"
+	d="M0,5h1v1h-1zM1,6h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="µ"
+	d="M0-2h1v7h-1zM1,0h1v1h-1zM3,0h1v5h-1zM2,1h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="¶"
+	d="M2-2h1v9h-1zM4-2h1v9h-1zM1,2h1v5h-1zM0,3h1v3h-1zM3,6h1v1h-1z"
+/><glyph
+	unicode="·"
+	d="M0,2h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="¹"
+	d="M1,5h1v4h-1zM0,7h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="º"
+	d="M0,2v-1h3v1zM1,3h1v1h-1zM0,4h1v2h-1zM2,4h1v2h-1zM1,6h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="»"
+	d="M0,1h1v1h-1zM3,1h1v1h-1zM1,2h1v1h-1zM4,2h1v1h-1zM0,3h1v1h-1zM3,3h1v1h-1z"
+/><glyph
+	unicode="¼"
+	d="M1,0h1v1h-1zM6,0h1v2h-1zM2,1h1v2h-1zM5,1h1v3h-1zM1,3h1v4h-1zM3,3h1v1h-1zM4,4h1v2h-1zM0,5h1v1h-1zM5,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="½"
+	d="M1,0h1v1h-1zM5,0h1v2h-1zM6,0h1v1h-1zM2,1h1v2h-1zM6,2h1v1h-1zM1,3h1v4h-1zM3,3h1v1h-1zM5,3h1v1h-1zM4,4h1v2h-1zM0,5h1v1h-1zM5,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="¾"
+	d="M1,0h1v1h-1zM6,0h1v2h-1zM2,1h1v2h-1zM5,1h1v3h-1zM1,3h1v1h-1zM3,3h1v1h-1zM2,4h1v2h-1zM4,4h1v2h-1zM1,5h1v2h-1zM0,6h1v1h-1zM5,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="¿"
+	d="M1-1v-1h2v1zM0-1h1v2h-1zM3-1h1v1h-1zM1,1h1v1h-1zM2,2h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="À"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,8h1v1h-1zM1,9h1v1h-1z"
+/><glyph
+	unicode="Á"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,8h1v1h-1zM3,9h1v1h-1z"
+/><glyph
+	unicode="Â"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1z"
+/><glyph
+	unicode="Ã"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v2h-1zM3,9v-1h2v1zM2,9h1v1h-1zM4,9h1v1h-1z"
+/><glyph
+	unicode="È"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM2,8h1v1h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="É"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM2,8h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ê"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ì"
+	d="M0,0h1v7h-1zM0,8h1v1h-1zM-1,9h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Í"
+	d="M0,0h1v7h-1zM0,8h1v1h-1zM1,9h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Ò"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM2,8h1v1h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ó"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM2,8h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ô"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Õ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM0,8h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ù"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM2,8h1v1h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ú"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM1,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="à"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="á"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="â"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ã"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="è"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="é"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ê"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ì"
+	d="M0,0h1v5h-1zM0,6h1v1h-1zM-1,7h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="í"
+	d="M0,0h1v5h-1zM0,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="ò"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ó"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ô"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="õ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="÷"
+	d="M2,0h1v1h-1zM0,3v-1h5v1zM2,4h1v1h-1z"
+/><glyph
+	unicode="ù"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ú"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ý"
+	d="M1-1v-1h2v1zM3-1h1v6h-1zM1,0h1v1h-1zM0,1h1v4h-1zM2,1h1v1h-1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ă"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM4,9h1v1h-1z"
+/><glyph
+	unicode="ă"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,7v-1h2v1zM0,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Đ"
+	d="M1,0h1v7h-1zM2,0h1v1h-1zM3,1h1v1h-1zM4,2h1v3h-1zM0,4v-1h3v1zM3,5h1v1h-1zM2,6h1v1h-1z"
+/><glyph
+	unicode="đ"
+	d="M1,1v-1h3v1zM0,1h1v3h-1zM3,1h1v6h-1zM2,3h1v1h-1zM1,4h1v1h-1zM2,6v-1h3v1z"
+/><glyph
+	unicode="Ĩ"
+	d="M0,0h1v7h-1zM-1,8h1v2h-1zM1,9v-1h2v1zM0,9h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="ĩ"
+	d="M0,0h1v5h-1zM-1,6h1v2h-1zM1,7v-1h2v1zM0,7h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Ũ"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM3,1h1v6h-1zM0,8h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ũ"
+	d="M0,0h1v5h-1zM1,0h1v1h-1zM3,0h1v5h-1zM2,1h1v1h-1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ͳ"
+	d="M2,0h1v7h-1zM0,4h1v3h-1zM4,4h1v3h-1zM1,7v-1h3v1z"
+/><glyph
+	unicode="ͳ"
+	d="M2,0h1v7h-1zM0,5h1v1h-1zM4,5h1v2h-1zM1,7v-1h3v1z"
+/><glyph
+	unicode="Ͷ"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,2h1v2h-1zM2,4h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ͷ"
+	d="M0,0h1v5h-1zM4,0h1v1h-1zM3,1h1v4h-1zM1,2h1v1h-1zM2,3h1v1h-1z"
+/><glyph
+	unicode="Α"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="Β"
+	d="M0,0h1v7h-1zM1,1v-1h2v1zM3,1h1v2h-1zM1,4v-1h2v1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Γ"
+	d="M0,0h1v7h-1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Δ"
+	d="M0,1v-1h5v1zM0,1h1v1h-1zM4,1h1v1h-1zM1,2h1v3h-1zM3,2h1v3h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="Ε"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h3v1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ζ"
+	d="M0,1v-1h4v1zM0,1h1v1h-1zM1,2h1v1h-1zM2,3h1v2h-1zM3,5h1v2h-1zM0,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Η"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,4v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Θ"
+	d="M1,1v-1h3v1zM0,1h1v5h-1zM4,1h1v5h-1zM1,4v-1h3v1zM1,7v-1h3v1z"
+/><glyph
+	unicode="Ι"
+	d="M0,0h1v7h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Κ"
+	d="M0,0h1v7h-1zM3,0h1v2h-1zM2,2h1v1h-1zM1,3h1v1h-1zM2,4h1v1h-1zM3,5h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Λ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM3,2h1v3h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="Μ"
+	d="M0,0h1v7h-1zM4,0h1v7h-1zM2,1h1v2h-1zM1,3h1v2h-1zM3,3h1v2h-1z"
+/><glyph
+	unicode="Ν"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM2,2h1v2h-1zM1,4h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ξ"
+	d="M0,1v-1h4v1zM1,4v-1h2v1zM0,7v-1h4v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ο"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Π"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ρ"
+	d="M0,0h1v7h-1zM1,4v-1h2v1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Σ"
+	d="M0,1v-1h4v1zM0,1h1v1h-1zM1,2h1v1h-1zM2,3h1v1h-1zM1,4h1v1h-1zM0,5h1v2h-1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Τ"
+	d="M2,0h1v7h-1zM0,7v-1h5v1z"
+/><glyph
+	unicode="Υ"
+	d="M2,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="Φ"
+	d="M2,0h1v7h-1zM1,2v-1h3v1zM0,2h1v3h-1zM4,2h1v3h-1zM1,6v-1h3v1z"
+/><glyph
+	unicode="Χ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v1h-1zM3,2h1v1h-1zM2,3h1v1h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="Ψ"
+	d="M2,0h1v7h-1zM1,3v-1h3v1zM0,3h1v4h-1zM4,3h1v4h-1z"
+/><glyph
+	unicode="Ω"
+	d="M0,1v-1h2v1zM3,0h1v2h-1zM4,0h1v1h-1zM1,1h1v1h-1zM0,2h1v4h-1zM4,2h1v4h-1zM1,7v-1h3v1z"
+/><glyph
+	unicode="α"
+	d="M1,1v-1h2v1zM4,0h1v1h-1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM4,4h1v1h-1z"
+/><glyph
+	unicode="β"
+	d="M0-2h1v8h-1zM1,1v-1h2v1zM3,1h1v2h-1zM2,3h1v1h-1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="γ"
+	d="M2-2h1v4h-1zM1,2h1v2h-1zM3,2h1v2h-1zM0,4h1v1h-1zM4,4h1v1h-1z"
+/><glyph
+	unicode="δ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM0,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ε"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM1,3v-1h2v1zM0,3h1v1h-1zM1,5v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ζ"
+	d="M2-2h1v1h-1zM3-1h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM1,4h1v1h-1zM2,5h1v2h-1zM0,7v-1h4v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="η"
+	d="M3-2h1v6h-1zM0,0h1v5h-1zM1,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="θ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,4v-1h2v1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ι"
+	d="M1,0h1v1h-1zM0,1h1v4h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="κ"
+	d="M0,0h1v5h-1zM3,0h1v1h-1zM2,1h1v1h-1zM1,2h1v1h-1zM2,3h1v1h-1zM3,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="λ"
+	d="M0,0h1v1h-1zM4,0h1v1h-1zM1,1h1v2h-1zM3,1h1v2h-1zM2,3h1v3h-1zM1,6h1v1h-1z"
+/><glyph
+	unicode="μ"
+	d="M0-2h1v7h-1zM1,0h1v1h-1zM3,0h1v5h-1zM2,1h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ν"
+	d="M2,0h1v1h-1zM1,1h1v2h-1zM3,1h1v2h-1zM0,3h1v2h-1zM4,3h1v2h-1z"
+/><glyph
+	unicode="ξ"
+	d="M2-2h1v1h-1zM3-1h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM1,5v-1h2v1zM0,5h1v1h-1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ο"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="π"
+	d="M1,0h1v5h-1zM4,0h1v1h-1zM3,1h1v4h-1zM0,5v-1h5v1z"
+/><glyph
+	unicode="ρ"
+	d="M0-2h1v6h-1zM1,1v-1h2v1zM3,1h1v3h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ς"
+	d="M2-2h1v1h-1zM3-1h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM3,3h1v1h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="σ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v4h-1zM1,5v-1h4v1z"
+/><glyph
+	unicode="τ"
+	d="M3,0h1v1h-1zM2,1h1v4h-1zM0,5v-1h5v1z"
+/><glyph
+	unicode="υ"
+	d="M1,1v-1h2v1zM0,1h1v4h-1zM3,1h1v3h-1zM2,4h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="φ"
+	d="M2-2h1v6h-1zM1,1v-1h3v1zM0,1h1v3h-1zM4,1h1v3h-1zM3,4h1v1h-1z"
+/><glyph
+	unicode="χ"
+	d="M0-2h1v2h-1zM4-2h1v1h-1zM3-1h1v2h-1zM1,0h1v1h-1zM2,1h1v1h-1zM1,2h1v2h-1zM3,2h1v1h-1zM4,3h1v2h-1zM0,4h1v1h-1z"
+/><glyph
+	unicode="ψ"
+	d="M2-2h1v7h-1zM1,1v-1h3v1zM0,1h1v4h-1zM4,1h1v4h-1z"
+/><glyph
+	unicode="ω"
+	d="M1,0h1v1h-1zM3,0h1v1h-1zM0,1h1v4h-1zM2,1h1v3h-1zM4,1h1v4h-1z"
+/><glyph
+	unicode="Ϸ"
+	d="M0,0h1v7h-1zM1,2v-1h3v1zM4,2h1v3h-1zM1,6v-1h3v1z"
+/><glyph
+	unicode="ϸ"
+	d="M0-2h1v9h-1zM1,1v-1h2v1zM3,1h1v3h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ё"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ђ"
+	d="M2,0h1v7h-1zM4,0h1v1h-1zM5,1h1v2h-1zM3,4v-1h2v1zM0,7v-1h5v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="Ѓ"
+	d="M0,0h1v7h-1zM1,7v-1h3v1zM1,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Є"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v1h-1zM1,4v-1h2v1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ѕ"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v2h-1zM1,4v-1h2v1zM0,4h1v2h-1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="І"
+	d="M0,0h1v7h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Ї"
+	d="M0,0h1v7h-1zM-1,8h1v1h-1zM1,8h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Ј"
+	d="M1,1v-1h2v1zM0,1h1v2h-1zM3,1h1v6h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Љ"
+	d="M0,0h1v1h-1zM3,0h1v7h-1zM4,1v-1h2v1zM1,1h1v6h-1zM6,1h1v2h-1zM4,4v-1h2v1zM2,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="Њ"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM4,1v-1h2v1zM6,1h1v2h-1zM1,4v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="Ћ"
+	d="M2,0h1v7h-1zM5,0h1v3h-1zM3,4v-1h2v1zM0,7v-1h5v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="Ќ"
+	d="M0,0h1v7h-1zM3,0h1v2h-1zM2,2h1v1h-1zM1,3h1v1h-1zM2,4h1v1h-1zM3,5h1v2h-1zM1,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Џ"
+	d="M2-1h1v2h-1zM0,0h1v7h-1zM1,1v-1h4v1zM4,1h1v6h-1z"
+/><glyph
+	unicode="А"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="Б"
+	d="M0,0h1v7h-1zM1,1v-1h2v1zM3,1h1v2h-1zM1,4v-1h2v1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="В"
+	d="M0,0h1v7h-1zM1,1v-1h2v1zM3,1h1v2h-1zM1,4v-1h2v1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Г"
+	d="M0,0h1v7h-1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Д"
+	d="M0-1h1v2h-1zM4-1h1v2h-1zM1,0h1v7h-1zM2,1v-1h2v1zM3,1h1v6h-1zM2,6h1v1h-1z"
+/><glyph
+	unicode="Е"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h3v1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ж"
+	d="M0,0h1v2h-1zM3,0h1v7h-1zM6,0h1v2h-1zM1,2h1v1h-1zM5,2h1v1h-1zM2,4v-1h3v1zM1,4h1v1h-1zM5,4h1v1h-1zM0,5h1v2h-1zM6,5h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="З"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v2h-1zM1,4v-1h2v1zM3,4h1v2h-1zM0,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="И"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,2h1v2h-1zM2,4h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Й"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,2h1v2h-1zM2,4h1v2h-1zM1,9v-1h2v1zM0,9h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="К"
+	d="M0,0h1v7h-1zM3,0h1v2h-1zM2,2h1v1h-1zM1,3h1v1h-1zM2,4h1v1h-1zM3,5h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Л"
+	d="M0,0h1v1h-1zM4,0h1v7h-1zM1,1h1v6h-1zM2,7v-1h2v1z"
+/><glyph
+	unicode="М"
+	d="M0,0h1v7h-1zM4,0h1v7h-1zM2,1h1v2h-1zM1,3h1v2h-1zM3,3h1v2h-1z"
+/><glyph
+	unicode="Н"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,4v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="О"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="П"
+	d="M0,0h1v7h-1zM3,0h1v7h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Р"
+	d="M0,0h1v7h-1zM1,4v-1h2v1zM3,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="С"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v1h-1zM3,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Т"
+	d="M2,0h1v7h-1zM0,7v-1h5v1z"
+/><glyph
+	unicode="У"
+	d="M1,0h1v1h-1zM2,1h1v2h-1zM1,3h1v2h-1zM3,3h1v2h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="Ф"
+	d="M2,0h1v7h-1zM1,2v-1h3v1zM0,2h1v3h-1zM4,2h1v3h-1zM1,6v-1h3v1z"
+/><glyph
+	unicode="Х"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v1h-1zM3,2h1v1h-1zM2,3h1v1h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="Ц"
+	d="M4-1h1v2h-1zM0,0h1v7h-1zM1,1v-1h3v1zM3,1h1v6h-1z"
+/><glyph
+	unicode="Ч"
+	d="M3,0h1v7h-1zM1,4v-1h2v1zM0,4h1v3h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ш"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM3,1h1v6h-1zM6,1h1v6h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="Щ"
+	d="M7-1h1v2h-1zM0,0h1v7h-1zM1,1v-1h6v1zM3,1h1v6h-1zM6,1h1v6h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="Ы"
+	d="M0,0h1v7h-1zM1,1v-1h2v1zM5,0h1v7h-1zM3,1h1v2h-1zM1,4v-1h2v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="Э"
+	d="M1,1v-1h2v1zM0,1h1v1h-1zM3,1h1v5h-1zM1,4v-1h2v1zM0,5h1v1h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ю"
+	d="M0,0h1v7h-1zM3,1v-1h2v1zM2,1h1v5h-1zM5,1h1v5h-1zM1,3h1v1h-1zM3,7v-1h2v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="Я"
+	d="M0,0h1v2h-1zM3,0h1v7h-1zM1,2h1v2h-1zM2,3h1v1h-1zM0,4h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ạ"
+	d="M2-2h1v1h-1zM0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1z"
+/><glyph
+	unicode="ạ"
+	d="M2-2h1v1h-1zM1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ả"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM3,8h1v2h-1zM2,9h1v1h-1z"
+/><glyph
+	unicode="ả"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ấ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM2,11h1v1h-1zM3,12h1v1h-1z"
+/><glyph
+	unicode="ấ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM2,9h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ầ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM3,11h1v1h-1zM2,12h1v1h-1z"
+/><glyph
+	unicode="ầ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM3,9h1v1h-1zM2,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẩ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM3,11h1v2h-1zM2,12h1v1h-1z"
+/><glyph
+	unicode="ẩ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM3,9h1v2h-1zM2,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẫ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM0,11h1v2h-1zM2,12v-1h2v1zM1,12h1v1h-1zM3,12h1v1h-1z"
+/><glyph
+	unicode="ẫ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM0,9h1v2h-1zM2,10v-1h2v1zM1,10h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ậ"
+	d="M2-2h1v1h-1zM0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1z"
+/><glyph
+	unicode="ậ"
+	d="M2-2h1v1h-1zM1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ắ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM4,9h1v1h-1zM3,11h1v1h-1zM4,12h1v1h-1z"
+/><glyph
+	unicode="ắ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,7v-1h2v1zM0,7h1v1h-1zM3,7h1v1h-1zM2,9h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ằ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM4,9h1v1h-1zM3,11h1v1h-1zM2,12h1v1h-1z"
+/><glyph
+	unicode="ằ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,7v-1h2v1zM0,7h1v1h-1zM3,7h1v1h-1zM2,9h1v1h-1zM1,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẳ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM4,9h1v1h-1zM3,11h1v2h-1zM2,12h1v1h-1z"
+/><glyph
+	unicode="ẳ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,7v-1h2v1zM0,7h1v1h-1zM3,7h1v1h-1zM2,9h1v2h-1zM1,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẵ"
+	d="M0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM4,9h1v1h-1zM1,11h1v2h-1zM3,12v-1h2v1zM2,12h1v1h-1zM4,12h1v1h-1z"
+/><glyph
+	unicode="ẵ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,7v-1h2v1zM0,7h1v1h-1zM3,7h1v1h-1zM0,9h1v2h-1zM2,10v-1h2v1zM1,10h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ặ"
+	d="M2-2h1v1h-1zM0,0h1v2h-1zM4,0h1v2h-1zM1,2h1v3h-1zM2,3v-1h2v1zM3,3h1v2h-1zM2,5h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM4,9h1v1h-1z"
+/><glyph
+	unicode="ặ"
+	d="M2-2h1v1h-1zM1,1v-1h3v1zM0,1h1v1h-1zM3,1h1v3h-1zM1,3v-1h2v1zM1,5v-1h2v1zM1,7v-1h2v1zM0,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẹ"
+	d="M2-2h1v1h-1zM0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ẹ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẻ"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM2,8h1v2h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ẻ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ẽ"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM0,8h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ẽ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ế"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM2,11h1v1h-1zM3,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ế"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM2,9h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ề"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM3,11h1v1h-1zM2,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ề"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM3,9h1v1h-1zM2,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ể"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM3,11h1v2h-1zM2,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ể"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM3,9h1v2h-1zM2,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ễ"
+	d="M0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM0,11h1v2h-1zM2,12v-1h2v1zM1,12h1v1h-1zM3,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ễ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM0,9h1v2h-1zM2,10v-1h2v1zM1,10h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ệ"
+	d="M2-2h1v1h-1zM0,0h1v7h-1zM1,1v-1h3v1zM1,4v-1h2v1zM1,7v-1h3v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ệ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM1,3v-1h3v1zM3,3h1v1h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỉ"
+	d="M0,0h1v7h-1zM1,8h1v2h-1zM0,9h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="ỉ"
+	d="M0,0h1v5h-1zM1,6h1v2h-1zM0,7h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Ị"
+	d="M0-2h1v1h-1zM0,0h1v7h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="ị"
+	d="M0-2h1v1h-1zM0,0h1v5h-1zM0,6h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="Ọ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ọ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỏ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM2,8h1v2h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ỏ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ố"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM2,11h1v1h-1zM3,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ố"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM2,9h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ồ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM3,11h1v1h-1zM2,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ồ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM3,9h1v1h-1zM2,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ổ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM3,11h1v2h-1zM2,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ổ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM3,9h1v2h-1zM2,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỗ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1zM0,11h1v2h-1zM2,12v-1h2v1zM1,12h1v1h-1zM3,12h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ỗ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1zM0,9h1v2h-1zM2,10v-1h2v1zM1,10h1v1h-1zM3,10h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ộ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM1,7v-1h2v1zM1,8h1v1h-1zM3,8h1v1h-1zM2,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ộ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM1,5v-1h2v1zM1,6h1v1h-1zM3,6h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ớ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM4,5h1v2h-1zM1,7v-1h2v1zM2,8h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ớ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM4,3h1v2h-1zM1,5v-1h2v1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ờ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM4,5h1v2h-1zM1,7v-1h2v1zM2,8h1v1h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ờ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM4,3h1v2h-1zM1,5v-1h2v1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ở"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM4,5h1v2h-1zM1,7v-1h2v1zM2,8h1v2h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ở"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM4,3h1v2h-1zM1,5v-1h2v1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỡ"
+	d="M1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM4,5h1v2h-1zM1,7v-1h2v1zM0,8h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ỡ"
+	d="M1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM4,3h1v2h-1zM1,5v-1h2v1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ợ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v5h-1zM3,1h1v5h-1zM4,5h1v2h-1zM1,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ợ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v3h-1zM3,1h1v3h-1zM4,3h1v2h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ụ"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ụ"
+	d="M2-2h1v1h-1zM1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ủ"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM2,8h1v2h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ủ"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ứ"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM4,6h1v2h-1zM2,8h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ứ"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM4,4h1v2h-1zM2,6h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ừ"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM4,6h1v2h-1zM2,8h1v1h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ừ"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM4,4h1v2h-1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ử"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM4,6h1v2h-1zM2,8h1v2h-1zM1,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ử"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM4,4h1v2h-1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ữ"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM4,6h1v2h-1zM0,8h1v2h-1zM2,9v-1h2v1zM1,9h1v1h-1zM3,9h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ữ"
+	d="M1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM4,4h1v2h-1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ự"
+	d="M2-2h1v1h-1zM1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v6h-1zM4,6h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ự"
+	d="M2-2h1v1h-1zM1,0h1v1h-1zM3,0h1v5h-1zM0,1h1v4h-1zM2,1h1v1h-1zM4,4h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỳ"
+	d="M2,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1zM2,8h1v1h-1zM1,9h1v1h-1z"
+/><glyph
+	unicode="ỳ"
+	d="M1-1v-1h2v1zM3-1h1v6h-1zM1,0h1v1h-1zM0,1h1v4h-1zM2,1h1v1h-1zM2,6h1v1h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỵ"
+	d="M2-2h1v1h-1zM2,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="ỵ"
+	d="M3-3h1v1h-1zM1-1v-1h2v1zM3-1h1v6h-1zM1,0h1v1h-1zM0,1h1v4h-1zM2,1h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỷ"
+	d="M2,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1zM2,8h1v2h-1zM1,9h1v1h-1z"
+/><glyph
+	unicode="ỷ"
+	d="M1-1v-1h2v1zM3-1h1v6h-1zM1,0h1v1h-1zM0,1h1v4h-1zM2,1h1v1h-1zM2,6h1v2h-1zM1,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="Ỹ"
+	d="M2,0h1v4h-1zM1,4h1v1h-1zM3,4h1v1h-1zM0,5h1v2h-1zM4,5h1v2h-1zM1,8h1v2h-1zM3,9v-1h2v1zM2,9h1v1h-1zM4,9h1v1h-1z"
+/><glyph
+	unicode="ỹ"
+	d="M1-1v-1h2v1zM3-1h1v6h-1zM1,0h1v1h-1zM0,1h1v4h-1zM2,1h1v1h-1zM0,6h1v2h-1zM2,7v-1h2v1zM1,7h1v1h-1zM3,7h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="†"
+	d="M1-2h1v9h-1zM0,5v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="‡"
+	d="M1-2h1v9h-1zM0,1v-1h3v1zM0,5v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="•"
+	d="M0,2h1v2h-1zM1,2h1v2h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="․"
+	d="M0,0h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="‥"
+	d="M0,0h1v1h-1zM2,0h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="…"
+	d="M0,0h1v1h-1zM2,0h1v1h-1zM4,0h1v1h-1z"
+/><glyph
+	unicode="‰"
+	d="M0,0h1v1h-1zM3,0h1v2h-1zM4,0h1v2h-1zM6,0h1v2h-1zM7,0h1v2h-1zM1,1h1v2h-1zM2,3h1v1h-1zM3,4h1v2h-1zM0,5h1v2h-1zM1,5h1v2h-1zM4,6h1v1h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="‱"
+	d="M0,0h1v1h-1zM3,0h1v2h-1zM4,0h1v2h-1zM6,0h1v2h-1zM7,0h1v2h-1zM9,0h1v2h-1zM10,0h1v2h-1zM1,1h1v2h-1zM2,3h1v1h-1zM3,4h1v2h-1zM0,5h1v2h-1zM1,5h1v2h-1zM4,6h1v1h-1z"
+	horiz-adv-x="12"
+/><glyph
+	unicode="⁰"
+	d="M0,5h1v4h-1zM1,6v-1h2v1zM2,6h1v3h-1zM1,8h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="ⁱ"
+	d="M0,5h1v3h-1zM0,9h1v1h-1z"
+	horiz-adv-x="2"
+/><glyph
+	unicode="⁴"
+	d="M2,5h1v3h-1zM0,6h1v3h-1zM1,6h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁵"
+	d="M0,6v-1h2v1zM2,6h1v1h-1zM0,7h1v2h-1zM1,7h1v2h-1zM2,8h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁶"
+	d="M0,5h1v4h-1zM1,5h1v2h-1zM2,5h1v2h-1zM1,9v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁷"
+	d="M1,5h1v2h-1zM2,7h1v2h-1zM0,9v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁸"
+	d="M0,5h1v4h-1zM1,6v-1h2v1zM2,6h1v3h-1zM1,7h1v2h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁹"
+	d="M0,6v-1h3v1zM2,6h1v3h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁺"
+	d="M1,5h1v3h-1zM0,7v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁻"
+	d="M0,7v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁼"
+	d="M0,6v-1h3v1zM0,8v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="⁽"
+	d="M1,4h1v1h-1zM0,5h1v4h-1zM1,9h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="⁾"
+	d="M0,4h1v1h-1zM1,5h1v4h-1zM0,9h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="ⁿ"
+	d="M0,5h1v4h-1zM2,5h1v3h-1zM1,8h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₀"
+	d="M0-2h1v4h-1zM1-1v-1h2v1zM2-1h1v3h-1zM1,1h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₁"
+	d="M1-2h1v4h-1zM0,0h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="₂"
+	d="M0-1v-1h3v1zM1-1h1v1h-1zM2,0h1v1h-1zM0,2v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₃"
+	d="M0-1v-1h2v1zM2-1h1v2h-1zM1,0h1v2h-1zM0,1h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₄"
+	d="M2-2h1v3h-1zM0-1h1v3h-1zM1-1h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₅"
+	d="M0-1v-1h2v1zM2-1h1v1h-1zM0,0h1v2h-1zM1,0h1v2h-1zM2,1h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₆"
+	d="M0-2h1v4h-1zM1-2h1v2h-1zM2-2h1v2h-1zM1,2v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₇"
+	d="M1-2h1v2h-1zM2,0h1v2h-1zM0,2v-1h2v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₈"
+	d="M0-2h1v4h-1zM1-1v-1h2v1zM2-1h1v3h-1zM1,0h1v2h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₉"
+	d="M0-1v-1h3v1zM2-1h1v3h-1zM0,0h1v2h-1zM1,0h1v2h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₊"
+	d="M1-1h1v3h-1zM0,1v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₋"
+	d="M0,1v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₌"
+	d="M0,0v-1h3v1zM0,2v-1h3v1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="₍"
+	d="M1-3h1v1h-1zM0-2h1v4h-1zM1,2h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="₎"
+	d="M0-3h1v1h-1zM1-2h1v4h-1zM0,2h1v1h-1z"
+	horiz-adv-x="3"
+/><glyph
+	unicode="─"
+	d="M0,4v-1h9v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="│"
+	d="M4-1h1v9h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┄"
+	d="M0,4v-1h2v1zM3,4v-1h3v1zM7,4v-1h2v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┆"
+	d="M4-1h1v2h-1zM4,2h1v3h-1zM4,6h1v2h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┈"
+	d="M0,3h1v1h-1zM2,3h1v1h-1zM4,3h1v1h-1zM6,3h1v1h-1zM8,3h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┊"
+	d="M4-1h1v1h-1zM4,1h1v1h-1zM4,3h1v1h-1zM4,5h1v1h-1zM4,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┌"
+	d="M4-1h1v5h-1zM5,4v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┐"
+	d="M4-1h1v5h-1zM0,4v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="└"
+	d="M4,3h1v5h-1zM5,4v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┘"
+	d="M0,4v-1h5v1zM4,4h1v4h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="├"
+	d="M4-1h1v9h-1zM5,4v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┤"
+	d="M4-1h1v9h-1zM0,4v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┬"
+	d="M4-1h1v5h-1zM0,4v-1h9v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┴"
+	d="M0,4v-1h9v1zM4,4h1v4h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="┼"
+	d="M4-1h1v9h-1zM0,4v-1h9v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╌"
+	d="M0,4v-1h4v1zM5,4v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╎"
+	d="M4-1h1v4h-1zM4,4h1v4h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="═"
+	d="M0,3v-1h9v1zM0,5v-1h9v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="║"
+	d="M3-1h1v9h-1zM5-1h1v9h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╒"
+	d="M4-1h1v6h-1zM5,3v-1h4v1zM5,5v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╓"
+	d="M3-1h1v5h-1zM5-1h1v5h-1zM4,4v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╔"
+	d="M3-1h1v6h-1zM5-1h1v4h-1zM6,3v-1h3v1zM4,5v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╕"
+	d="M4-1h1v6h-1zM0,3v-1h4v1zM0,5v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╖"
+	d="M3-1h1v5h-1zM5-1h1v5h-1zM0,4v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╗"
+	d="M3-1h1v4h-1zM5-1h1v6h-1zM0,3v-1h3v1zM0,5v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╚"
+	d="M3,2h1v6h-1zM4,3v-1h5v1zM5,4h1v4h-1zM6,5v-1h3v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╪"
+	d="M4-1h1v9h-1zM0,3v-1h9v1zM0,5v-1h9v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╫"
+	d="M3-1h1v9h-1zM5-1h1v9h-1zM0,4v-1h9v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╬"
+	d="M3-1h1v4h-1zM5-1h1v4h-1zM0,3v-1h3v1zM6,3v-1h3v1zM0,5v-1h4v1zM5,4h1v4h-1zM6,5v-1h3v1zM3,5h1v3h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╭"
+	d="M4-1h1v3h-1zM5,2h1v1h-1zM6,4v-1h3v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╮"
+	d="M4-1h1v3h-1zM3,2h1v1h-1zM0,4v-1h3v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╯"
+	d="M0,4v-1h3v1zM3,4h1v1h-1zM4,5h1v3h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╰"
+	d="M6,4v-1h3v1zM5,4h1v1h-1zM4,5h1v3h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╱"
+	d="M0-1h1v1h-1zM1,0h1v1h-1zM2,1h1v1h-1zM3,2h1v1h-1zM4,3h1v1h-1zM5,4h1v1h-1zM6,5h1v1h-1zM7,6h1v1h-1zM8,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╲"
+	d="M8-1h1v1h-1zM7,0h1v1h-1zM6,1h1v1h-1zM5,2h1v1h-1zM4,3h1v1h-1zM3,4h1v1h-1zM2,5h1v1h-1zM1,6h1v1h-1zM0,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╳"
+	d="M0-1h1v1h-1zM8-1h1v1h-1zM1,0h1v1h-1zM7,0h1v1h-1zM2,1h1v1h-1zM6,1h1v1h-1zM3,2h1v1h-1zM5,2h1v1h-1zM4,3h1v1h-1zM3,4h1v1h-1zM5,4h1v1h-1zM2,5h1v1h-1zM6,5h1v1h-1zM1,6h1v1h-1zM7,6h1v1h-1zM0,7h1v1h-1zM8,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╴"
+	d="M0,4v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╵"
+	d="M4,3h1v5h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╶"
+	d="M4,4v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="╷"
+	d="M4-1h1v5h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="▀"
+	d="M0,4v-1h7v1zM0,5v-1h7v1zM0,6v-1h7v1zM0,7v-1h7v1zM0,8v-1h7v1zM0,9v-1h7v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▄"
+	d="M0-1v-1h7v1zM0,0v-1h7v1zM0,1v-1h7v1zM0,2v-1h7v1zM0,3v-1h7v1zM0,4v-1h7v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="█"
+	d="M0-2h1v11h-1zM1-2h1v11h-1zM2-2h1v11h-1zM3-2h1v11h-1zM4-2h1v11h-1zM5-2h1v11h-1zM6-2h1v11h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="░"
+	d="M0-2h1v1h-1zM2-2h1v1h-1zM4-2h1v1h-1zM6-2h1v1h-1zM0,0h1v1h-1zM2,0h1v1h-1zM4,0h1v1h-1zM6,0h1v1h-1zM0,2h1v1h-1zM2,2h1v1h-1zM4,2h1v1h-1zM6,2h1v1h-1zM0,4h1v1h-1zM2,4h1v1h-1zM4,4h1v1h-1zM6,4h1v1h-1zM0,6h1v1h-1zM2,6h1v1h-1zM4,6h1v1h-1zM6,6h1v1h-1zM0,8h1v1h-1zM2,8h1v1h-1zM4,8h1v1h-1zM6,8h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▒"
+	d="M0-2h1v1h-1zM2-2h1v1h-1zM4-2h1v1h-1zM6-2h1v1h-1zM1-1h1v1h-1zM3-1h1v1h-1zM5-1h1v1h-1zM0,0h1v1h-1zM2,0h1v1h-1zM4,0h1v1h-1zM6,0h1v1h-1zM1,1h1v1h-1zM3,1h1v1h-1zM5,1h1v1h-1zM0,2h1v1h-1zM2,2h1v1h-1zM4,2h1v1h-1zM6,2h1v1h-1zM1,3h1v1h-1zM3,3h1v1h-1zM5,3h1v1h-1zM0,4h1v1h-1zM2,4h1v1h-1zM4,4h1v1h-1zM6,4h1v1h-1zM1,5h1v1h-1zM3,5h1v1h-1zM5,5h1v1h-1zM0,6h1v1h-1zM2,6h1v1h-1zM4,6h1v1h-1zM6,6h1v1h-1zM1,7h1v1h-1zM3,7h1v1h-1zM5,7h1v1h-1zM0,8h1v1h-1zM2,8h1v1h-1zM4,8h1v1h-1zM6,8h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▓"
+	d="M0-2h1v11h-1zM1-1v-1h6v1zM2-1h1v10h-1zM4-1h1v10h-1zM6-1h1v10h-1zM1,1v-1h5v1zM1,3v-1h5v1zM1,5v-1h5v1zM1,7v-1h5v1zM1,9v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="■"
+	d="M0,0h1v5h-1zM1,0h1v5h-1zM2,0h1v5h-1zM3,0h1v5h-1zM4,0h1v5h-1z"
+/><glyph
+	unicode="□"
+	d="M0,0h1v5h-1zM1,1v-1h4v1zM4,1h1v4h-1zM1,5v-1h3v1z"
+/><glyph
+	unicode="▢"
+	d="M1,1v-1h5v1zM0,1h1v5h-1zM6,1h1v5h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▣"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM2,2h1v3h-1zM3,2h1v3h-1zM4,2h1v3h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▤"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM1,3v-1h5v1zM1,5v-1h5v1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▥"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM2,1h1v6h-1zM4,1h1v6h-1zM6,1h1v6h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▦"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM2,1h1v6h-1zM4,1h1v6h-1zM6,1h1v6h-1zM1,3v-1h5v1zM1,5v-1h5v1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▧"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM2,1h1v1h-1zM5,2v-1h2v1zM1,2h1v1h-1zM4,2h1v1h-1zM6,2h1v5h-1zM3,3h1v1h-1zM2,4h1v1h-1zM5,4h1v1h-1zM1,5h1v2h-1zM4,5h1v2h-1zM2,7v-1h4v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▨"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM1,1h1v1h-1zM4,1h1v1h-1zM6,1h1v6h-1zM2,2h1v1h-1zM5,2h1v1h-1zM3,3h1v1h-1zM1,4h1v1h-1zM4,4h1v1h-1zM2,5h1v2h-1zM5,5h1v2h-1zM1,7v-1h4v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▩"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM1,1h1v1h-1zM3,1h1v1h-1zM5,2v-1h2v1zM2,2h1v1h-1zM4,2h1v1h-1zM6,2h1v5h-1zM1,3h1v1h-1zM3,3h1v1h-1zM5,3h1v1h-1zM2,4h1v1h-1zM4,4h1v1h-1zM1,5h1v2h-1zM3,5h1v2h-1zM5,5h1v2h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▪"
+	d="M0,2h1v3h-1zM1,2h1v3h-1zM2,2h1v3h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="▫"
+	d="M0,2h1v3h-1zM1,3v-1h2v1zM2,3h1v2h-1zM1,4h1v1h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="▲"
+	d="M0,1v-1h7v1zM0,2v-1h7v1zM1,3v-1h5v1zM1,4v-1h5v1zM2,5v-1h3v1zM2,6v-1h3v1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="△"
+	d="M0,1v-1h7v1zM0,1h1v1h-1zM6,1h1v1h-1zM1,2h1v2h-1zM5,2h1v2h-1zM2,4h1v2h-1zM4,4h1v2h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▶"
+	d="M0,0h1v7h-1zM1,0h1v7h-1zM2,1h1v5h-1zM3,1h1v5h-1zM4,2h1v3h-1zM5,2h1v3h-1zM6,3h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▷"
+	d="M0,0h1v7h-1zM1,0h1v1h-1zM2,2v-1h2v1zM4,3v-1h2v1zM6,3h1v1h-1zM4,5v-1h2v1zM2,6v-1h2v1zM1,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▼"
+	d="M3,0h1v7h-1zM2,1h1v6h-1zM4,1h1v6h-1zM1,4v-1h5v1zM1,5v-1h5v1zM0,6v-1h7v1zM0,7v-1h7v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="▽"
+	d="M3,0h1v1h-1zM2,1h1v2h-1zM4,1h1v2h-1zM1,3h1v2h-1zM5,3h1v2h-1zM0,5h1v2h-1zM6,5h1v2h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◀"
+	d="M5,0h1v7h-1zM6,0h1v7h-1zM3,1h1v5h-1zM4,1h1v5h-1zM1,2h1v3h-1zM2,2h1v3h-1zM0,3h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◁"
+	d="M5,1v-1h2v1zM3,2v-1h2v1zM6,1h1v6h-1zM1,3v-1h2v1zM0,3h1v1h-1zM1,5v-1h2v1zM3,6v-1h2v1zM5,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◆"
+	d="M3,0h1v7h-1zM2,1h1v5h-1zM4,1h1v5h-1zM1,3v-1h5v1zM0,4v-1h7v1zM1,5v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◇"
+	d="M3,0h1v1h-1zM2,1h1v1h-1zM4,1h1v1h-1zM1,2h1v1h-1zM5,2h1v1h-1zM0,3h1v1h-1zM6,3h1v1h-1zM1,4h1v1h-1zM5,4h1v1h-1zM2,5h1v1h-1zM4,5h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◈"
+	d="M3,0h1v1h-1zM2,1h1v1h-1zM4,1h1v1h-1zM1,2h1v1h-1zM3,2h1v3h-1zM5,2h1v1h-1zM0,3h1v1h-1zM2,4v-1h3v1zM6,3h1v1h-1zM1,4h1v1h-1zM5,4h1v1h-1zM2,5h1v1h-1zM4,5h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◉"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v3h-1zM2,2h1v3h-1zM3,2h1v3h-1zM4,2h1v3h-1zM6,2h1v3h-1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="○"
+	d="M1,1v-1h3v1zM0,1h1v3h-1zM4,1h1v3h-1zM1,5v-1h3v1z"
+/><glyph
+	unicode="◌"
+	d="M1,0h1v1h-1zM3,0h1v1h-1zM0,1h1v1h-1zM4,1h1v1h-1zM0,3h1v1h-1zM4,3h1v1h-1zM1,4h1v1h-1zM3,4h1v1h-1z"
+/><glyph
+	unicode="◍"
+	d="M2,1v-1h3v1zM1,1h1v5h-1zM3,1h1v6h-1zM5,1h1v5h-1zM0,2h1v3h-1zM6,2h1v3h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◎"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v3h-1zM2,2h1v3h-1zM3,3v-1h2v1zM6,2h1v3h-1zM4,3h1v2h-1zM3,4h1v1h-1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="●"
+	d="M1,0h1v5h-1zM2,0h1v5h-1zM3,0h1v5h-1zM0,2v-1h5v1zM0,3v-1h5v1zM0,4v-1h5v1z"
+/><glyph
+	unicode="◐"
+	d="M2,0h1v7h-1zM3,0h1v7h-1zM4,0h1v1h-1zM1,1h1v5h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM5,5h1v1h-1zM4,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◑"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM3,1h1v6h-1zM4,1h1v6h-1zM5,1h1v5h-1zM0,2h1v3h-1zM6,2h1v3h-1zM1,5h1v1h-1zM2,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◒"
+	d="M2,0h1v4h-1zM3,0h1v4h-1zM4,0h1v4h-1zM1,2v-1h5v1zM0,3v-1h7v1zM0,4v-1h7v1zM0,4h1v1h-1zM6,4h1v1h-1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◓"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM1,4v-1h5v1zM1,5v-1h5v1zM1,6v-1h5v1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◔"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM3,3h1v4h-1zM4,3h1v4h-1zM5,3h1v3h-1zM1,5h1v1h-1zM2,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◕"
+	d="M2,0h1v4h-1zM3,0h1v7h-1zM4,0h1v7h-1zM1,2v-1h5v1zM0,3v-1h7v1zM0,4v-1h7v1zM0,4h1v1h-1zM5,4h1v2h-1zM6,4h1v1h-1zM1,5h1v1h-1zM2,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◖"
+	d="M2,0h1v7h-1zM3,0h1v7h-1zM1,1h1v5h-1zM0,2h1v3h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="◗"
+	d="M0,0h1v7h-1zM1,0h1v7h-1zM2,1h1v5h-1zM3,2h1v3h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="◜"
+	d="M0,3h1v2h-1zM1,5h1v1h-1zM2,7v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="◝"
+	d="M6,3h1v2h-1zM5,5h1v1h-1zM3,7v-1h2v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◞"
+	d="M3,1v-1h2v1zM5,1h1v1h-1zM6,2h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◟"
+	d="M2,1v-1h2v1zM1,1h1v1h-1zM0,2h1v2h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="◠"
+	d="M0,3h1v2h-1zM6,3h1v2h-1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◡"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v2h-1zM6,2h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◢"
+	d="M0,1v-1h7v1zM1,2v-1h6v1zM2,3v-1h5v1zM3,4v-1h4v1zM4,5v-1h3v1zM5,6v-1h2v1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◣"
+	d="M0,0h1v7h-1zM1,0h1v6h-1zM2,0h1v5h-1zM3,0h1v4h-1zM4,0h1v3h-1zM5,0h1v2h-1zM6,0h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◤"
+	d="M0,0h1v7h-1zM1,1h1v6h-1zM2,2h1v5h-1zM3,3h1v4h-1zM4,4h1v3h-1zM5,5h1v2h-1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◥"
+	d="M6,0h1v7h-1zM5,1h1v6h-1zM4,2h1v5h-1zM3,3h1v4h-1zM2,4h1v3h-1zM1,5h1v2h-1zM0,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◧"
+	d="M0,0h1v7h-1zM1,0h1v7h-1zM2,0h1v7h-1zM3,0h1v7h-1zM4,1v-1h3v1zM6,1h1v6h-1zM4,7v-1h2v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◨"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM3,1h1v6h-1zM4,1h1v6h-1zM5,1h1v6h-1zM6,1h1v6h-1zM1,7v-1h2v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◩"
+	d="M0,0h1v7h-1zM1,0h1v7h-1zM2,1v-1h5v1zM6,1h1v6h-1zM2,2h1v5h-1zM3,3h1v4h-1zM4,4h1v3h-1zM5,5h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◪"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM1,2v-1h6v1zM2,3v-1h5v1zM3,4v-1h4v1zM4,5v-1h3v1zM5,5h1v2h-1zM6,5h1v2h-1zM1,7v-1h4v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◫"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM3,1h1v6h-1zM6,1h1v6h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◬"
+	d="M0,1v-1h7v1zM0,1h1v1h-1zM6,1h1v1h-1zM1,2h1v2h-1zM3,2h1v1h-1zM5,2h1v2h-1zM2,4h1v2h-1zM4,4h1v2h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◭"
+	d="M0,1v-1h7v1zM0,2v-1h4v1zM6,1h1v1h-1zM1,3v-1h3v1zM5,2h1v2h-1zM1,4v-1h3v1zM2,5v-1h3v1zM2,6v-1h3v1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◮"
+	d="M0,1v-1h7v1zM0,1h1v1h-1zM3,1h1v6h-1zM4,1h1v5h-1zM5,1h1v3h-1zM6,1h1v1h-1zM1,2h1v2h-1zM2,4h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◯"
+	d="M2,0v-1h5v1zM1,0h1v1h-1zM7,0h1v1h-1zM0,1h1v5h-1zM8,1h1v5h-1zM1,6h1v1h-1zM7,6h1v1h-1zM2,8v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="◰"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM1,4v-1h3v1zM3,4h1v3h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◱"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM3,1h1v3h-1zM6,1h1v6h-1zM1,4v-1h2v1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◲"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM3,1h1v3h-1zM6,1h1v6h-1zM4,4v-1h2v1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◳"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM3,3h1v4h-1zM4,4v-1h2v1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◴"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM1,4v-1h3v1zM3,4h1v3h-1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◵"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM3,1h1v3h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM1,4v-1h2v1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◶"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM3,1h1v3h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM4,4v-1h2v1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◷"
+	d="M2,1v-1h3v1zM1,1h1v1h-1zM5,1h1v1h-1zM0,2h1v3h-1zM6,2h1v3h-1zM3,3h1v4h-1zM4,4v-1h2v1zM1,5h1v1h-1zM5,5h1v1h-1zM2,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◸"
+	d="M0,0h1v7h-1zM1,1h1v1h-1zM2,2h1v1h-1zM3,3h1v1h-1zM4,4h1v1h-1zM5,5h1v2h-1zM1,7v-1h6v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◹"
+	d="M6,0h1v7h-1zM5,1h1v1h-1zM4,2h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1zM1,5h1v2h-1zM0,7v-1h6v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◺"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM5,1h1v1h-1zM4,2h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1zM1,5h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="◻"
+	d="M0,0h1v6h-1zM1,1v-1h5v1zM5,1h1v5h-1zM1,6v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="◼"
+	d="M0,0h1v6h-1zM1,0h1v6h-1zM2,0h1v6h-1zM3,0h1v6h-1zM4,0h1v6h-1zM5,0h1v6h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="◽"
+	d="M0,1h1v4h-1zM1,2v-1h3v1zM3,2h1v3h-1zM1,5v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="◾"
+	d="M0,1h1v4h-1zM1,1h1v4h-1zM2,1h1v4h-1zM3,1h1v4h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="◿"
+	d="M0,1v-1h7v1zM1,1h1v1h-1zM6,1h1v6h-1zM2,2h1v1h-1zM3,3h1v1h-1zM4,4h1v1h-1zM5,5h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♀"
+	d="M2-2h1v5h-1zM0,1v-1h5v1zM1,3v-1h3v1zM0,3h1v3h-1zM4,3h1v3h-1zM1,7v-1h3v1z"
+/><glyph
+	unicode="♂"
+	d="M1,1v-1h3v1zM0,1h1v3h-1zM4,1h1v3h-1zM1,5v-1h3v1zM2,5h1v4h-1zM0,6h1v1h-1zM4,6h1v1h-1zM1,8v-1h3v1z"
+/><glyph
+	unicode="♈"
+	d="M3,0h1v6h-1zM1,3h1v1h-1zM5,3h1v1h-1zM0,4h1v2h-1zM6,4h1v2h-1zM1,7v-1h2v1zM4,7v-1h2v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♉"
+	d="M2,1v-1h3v1zM1,1h1v3h-1zM5,1h1v3h-1zM2,5v-1h3v1zM1,5h1v1h-1zM5,5h1v1h-1zM0,6h1v1h-1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♊"
+	d="M0,0h1v1h-1zM6,0h1v1h-1zM1,2v-1h5v1zM2,2h1v4h-1zM4,2h1v4h-1zM1,6v-1h5v1zM0,6h1v1h-1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♋"
+	d="M1,1v-1h5v1zM0,1h1v1h-1zM4,1h1v2h-1zM6,1h1v2h-1zM1,3h1v1h-1zM5,3h1v1h-1zM0,4h1v2h-1zM2,4h1v3h-1zM6,5h1v1h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♌"
+	d="M5,0h1v1h-1zM0,1h1v3h-1zM1,2v-1h2v1zM4,1h1v3h-1zM6,1h1v1h-1zM2,2h1v4h-1zM1,3h1v1h-1zM5,4h1v2h-1zM3,7v-1h2v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♍"
+	d="M4,0h1v1h-1zM6,0h1v1h-1zM5,1h1v1h-1zM0,2h1v5h-1zM2,2h1v4h-1zM4,2h1v4h-1zM6,2h1v2h-1zM5,4h1v1h-1zM1,6h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♎"
+	d="M0,1v-1h7v1zM0,3v-1h3v1zM4,3v-1h3v1zM1,3h1v1h-1zM5,3h1v1h-1zM0,4h1v2h-1zM6,4h1v2h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♏"
+	d="M5,0h1v1h-1zM0,1h1v6h-1zM2,1h1v5h-1zM4,1h1v5h-1zM6,1h1v3h-1zM1,6h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♐"
+	d="M0,0h1v1h-1zM1,1h1v1h-1zM3,1h1v1h-1zM2,2h1v1h-1zM1,3h1v1h-1zM3,3h1v1h-1zM4,4h1v1h-1zM6,4h1v3h-1zM5,5h1v2h-1zM4,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♑"
+	d="M3,0h1v1h-1zM5,0h1v1h-1zM1,1h1v5h-1zM4,1h1v2h-1zM6,1h1v2h-1zM3,2h1v4h-1zM5,3h1v1h-1zM0,6h1v1h-1zM2,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♒"
+	d="M0,0h1v1h-1zM2,0h1v1h-1zM4,0h1v1h-1zM6,0h1v1h-1zM1,1h1v1h-1zM3,1h1v1h-1zM5,1h1v1h-1zM0,4h1v1h-1zM2,4h1v1h-1zM4,4h1v1h-1zM6,4h1v1h-1zM1,5h1v1h-1zM3,5h1v1h-1zM5,5h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♓"
+	d="M0,0h1v1h-1zM6,0h1v1h-1zM1,1h1v5h-1zM5,1h1v5h-1zM0,4v-1h7v1zM0,6h1v1h-1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♠"
+	d="M1,1v-1h5v1zM3,1h1v6h-1zM0,2h1v2h-1zM1,2h1v3h-1zM5,2h1v3h-1zM6,2h1v2h-1zM2,3h1v3h-1zM4,3h1v3h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♡"
+	d="M3,0h1v1h-1zM2,1h1v1h-1zM4,1h1v1h-1zM1,2h1v1h-1zM5,2h1v1h-1zM0,3h1v3h-1zM6,3h1v3h-1zM3,4h1v1h-1zM2,5h1v1h-1zM4,5h1v1h-1zM1,6h1v1h-1zM5,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♢"
+	d="M3,0h1v1h-1zM2,1h1v1h-1zM4,1h1v1h-1zM1,2h1v1h-1zM5,2h1v1h-1zM0,3h1v1h-1zM6,3h1v1h-1zM1,4h1v1h-1zM5,4h1v1h-1zM2,5h1v1h-1zM4,5h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♣"
+	d="M1,1v-1h5v1zM3,1h1v6h-1zM0,2h1v3h-1zM1,2h1v3h-1zM5,2h1v3h-1zM6,2h1v3h-1zM2,3h1v4h-1zM4,3h1v4h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♤"
+	d="M1,1v-1h5v1zM3,1h1v2h-1zM0,2h1v2h-1zM1,2h1v1h-1zM5,3v-1h2v1zM2,3h1v1h-1zM4,3h1v1h-1zM6,3h1v1h-1zM1,4h1v1h-1zM5,4h1v1h-1zM2,5h1v1h-1zM4,5h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♥"
+	d="M3,0h1v5h-1zM2,1h1v5h-1zM4,1h1v5h-1zM1,2h1v5h-1zM5,2h1v5h-1zM0,4v-1h7v1zM0,5v-1h7v1zM0,5h1v1h-1zM6,5h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♦"
+	d="M3,0h1v7h-1zM2,1h1v5h-1zM4,1h1v5h-1zM1,3v-1h5v1zM0,4v-1h7v1zM1,5v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♧"
+	d="M1,1v-1h5v1zM3,1h1v2h-1zM0,2h1v3h-1zM1,2h1v1h-1zM5,3v-1h2v1zM2,3h1v1h-1zM4,3h1v1h-1zM6,3h1v2h-1zM1,4h1v1h-1zM5,4h1v1h-1zM2,5h1v2h-1zM4,5h1v2h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♩"
+	d="M0,1v-1h3v1zM0,2v-1h3v1zM2,2h1v5h-1z"
+	horiz-adv-x="4"
+/><glyph
+	unicode="♪"
+	d="M0,1v-1h3v1zM0,2v-1h3v1zM2,2h1v5h-1zM4,2h1v3h-1zM3,5h1v1h-1z"
+/><glyph
+	unicode="♫"
+	d="M0,1v-1h3v1zM0,2v-1h3v1zM4,2v-1h3v1zM2,2h1v4h-1zM4,3v-1h3v1zM6,3h1v5h-1zM3,5h1v1h-1zM4,7v-1h2v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♬"
+	d="M0,1v-1h3v1zM4,1v-1h3v1zM0,2v-1h3v1zM4,2v-1h3v1zM2,2h1v5h-1zM6,2h1v5h-1zM3,5v-1h3v1zM3,7v-1h3v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="♭"
+	d="M0,0h1v7h-1zM1,0h1v1h-1zM2,1h1v1h-1zM3,2h1v1h-1zM1,4v-1h2v1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="♮"
+	d="M3,0h1v6h-1zM0,1h1v6h-1zM1,1h1v1h-1zM2,2h1v1h-1zM1,4h1v1h-1zM2,5h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="♯"
+	d="M1,0h1v6h-1zM0,1h1v1h-1zM3,1h1v6h-1zM2,2h1v1h-1zM0,3h1v1h-1zM4,3h1v1h-1zM2,4h1v1h-1zM4,5h1v1h-1z"
+/><glyph
+	unicode="⚀"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM3,3h1v1h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⚁"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM4,2h1v1h-1zM2,4h1v1h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⚂"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM4,2h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⚃"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM2,2h1v1h-1zM4,2h1v1h-1zM2,4h1v1h-1zM4,4h1v1h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⚄"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM6,1h1v6h-1zM2,2h1v1h-1zM4,2h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1zM4,4h1v1h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⚅"
+	d="M0,0h1v7h-1zM1,1v-1h6v1zM2,1h1v1h-1zM4,1h1v1h-1zM6,1h1v6h-1zM2,3h1v1h-1zM4,3h1v1h-1zM2,5h1v2h-1zM4,5h1v2h-1zM1,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⚐"
+	d="M0,0h1v7h-1zM3,3v-1h2v1zM1,4v-1h2v1zM4,3h1v3h-1zM3,5h1v1h-1zM1,7v-1h2v1z"
+/><glyph
+	unicode="⚑"
+	d="M0,0h1v7h-1zM3,2h1v4h-1zM4,2h1v4h-1zM1,3h1v4h-1zM2,3h1v4h-1z"
+/><glyph
+	unicode="⚘"
+	d="M2,0h1v7h-1zM1,2v-1h3v1zM0,2h1v2h-1zM4,2h1v2h-1zM1,6v-1h3v1zM1,7v-1h3v1z"
+/><glyph
+	unicode="⚙"
+	d="M0,0h1v1h-1zM3,0h1v2h-1zM6,0h1v1h-1zM1,1h1v5h-1zM2,2v-1h4v1zM5,2h1v4h-1zM0,3h1v1h-1zM3,3h1v1h-1zM6,3h1v1h-1zM2,6v-1h3v1zM0,6h1v1h-1zM3,6h1v1h-1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⛍"
+	d="M2,0v-1h7v1zM3,0h1v1h-1zM7,0h1v1h-1zM4,1h1v1h-1zM6,1h1v1h-1zM5,2h1v1h-1zM0,4h1v3h-1zM1,4h1v2h-1zM4,4h1v2h-1zM5,4h1v3h-1zM2,6v-1h2v1zM1,8v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛐"
+	d="M0,0v-1h3v1zM8-1h1v1h-1zM3,0h1v2h-1zM5,1v-1h3v1zM1,1h1v1h-1zM0,2h1v1h-1zM4,3v-1h2v1zM1,4v-1h2v1zM3,4h1v3h-1zM4,4h1v2h-1zM7,4h1v2h-1zM8,4h1v3h-1zM5,6v-1h2v1zM4,8v-1h4v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛑"
+	d="M3,0v-1h3v1zM2,0h1v1h-1zM6,0h1v1h-1zM1,1h1v6h-1zM7,1h1v6h-1zM0,4v-1h9v1zM2,4h1v4h-1zM3,4h1v1h-1zM5,5v-1h2v1zM6,5h1v3h-1zM3,6h1v2h-1zM5,6h1v2h-1zM4,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛓"
+	d="M0-1h1v2h-1zM2-1h1v2h-1zM5-1h1v2h-1zM1,0h1v3h-1zM4,0h1v3h-1zM6,0h1v3h-1zM0,2h1v3h-1zM2,2h1v3h-1zM5,2h1v3h-1zM1,4h1v3h-1zM4,4h1v3h-1zM6,4h1v3h-1zM0,7v-1h3v1zM5,6h1v2h-1zM0,7h1v1h-1zM2,7h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⛘"
+	d="M0,0v-1h9v1zM0,1v-1h9v1zM0,2v-1h9v1zM0,3v-1h9v1zM0,4v-1h9v1zM1,5v-1h8v1zM2,6v-1h7v1zM2,7v-1h7v1zM2,8v-1h7v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛙"
+	d="M0-1h1v5h-1zM4-1h1v1h-1zM8-1h1v9h-1zM4,1h1v1h-1zM4,3h1v1h-1zM1,4h1v1h-1zM2,5h1v3h-1zM4,5h1v1h-1zM4,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛚"
+	d="M0-1h1v3h-1zM1-1h1v3h-1zM2-1h1v2h-1zM6,0v-1h3v1zM6,1v-1h3v1zM7,2v-1h2v1zM0,5h1v3h-1zM1,5h1v3h-1zM7,5h1v3h-1zM8,5h1v3h-1zM2,6h1v2h-1zM6,6h1v2h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛛"
+	d="M4,0h1v2h-1zM3,1h1v3h-1zM5,1h1v3h-1zM2,3h1v2h-1zM6,3h1v2h-1zM1,4h1v4h-1zM7,4h1v4h-1zM0,6h1v2h-1zM8,6h1v2h-1zM2,8v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛜"
+	d="M0-1h1v5h-1zM2-1h1v3h-1zM5-1h1v1h-1zM8-1h1v9h-1zM5,1h1v1h-1zM5,3h1v1h-1zM1,4h1v1h-1zM2,5h1v1h-1zM5,5h1v1h-1zM3,6h1v2h-1zM5,7h1v1h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode="⛭"
+	d="M0,0h1v1h-1zM3,0h1v2h-1zM6,0h1v1h-1zM1,1h1v5h-1zM2,2v-1h4v1zM5,2h1v4h-1zM0,3h1v1h-1zM6,3h1v1h-1zM2,6v-1h3v1zM0,6h1v1h-1zM3,6h1v1h-1zM6,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="⠀"
+	d=""
+/><glyph
+	unicode="⠁"
+	d="M0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠂"
+	d="M0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⠃"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠄"
+	d="M0,1h1v2h-1zM1,1h1v2h-1z"
+/><glyph
+	unicode="⠅"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠆"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⠇"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠈"
+	d="M3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠉"
+	d="M0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠊"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠋"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠌"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠍"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠎"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠏"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠐"
+	d="M3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠑"
+	d="M3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠒"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠓"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠔"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠕"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠖"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠗"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠘"
+	d="M3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠙"
+	d="M3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠚"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠛"
+	d="M0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠜"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠝"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠞"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠟"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠠"
+	d="M3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⠡"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠢"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⠣"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠤"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⠥"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠦"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⠧"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠨"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠩"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠪"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠫"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠬"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠭"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠮"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠯"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠰"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠱"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠲"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠳"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠴"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠵"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠶"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⠷"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⠸"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠹"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠺"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠻"
+	d="M3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠼"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠽"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠾"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⠿"
+	d="M0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡀"
+	d="M0-2h1v2h-1zM1-2h1v2h-1z"
+/><glyph
+	unicode="⡁"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡂"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⡃"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡄"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1z"
+/><glyph
+	unicode="⡅"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡆"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⡇"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡈"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡉"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡊"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡋"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡌"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡍"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡎"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡏"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡐"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡑"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡒"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡓"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡔"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡕"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡖"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡗"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡘"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡙"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡚"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡛"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡜"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡝"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡞"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡟"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡠"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⡡"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡢"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⡣"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡤"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⡥"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡦"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⡧"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡨"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡩"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡪"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡫"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡬"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡭"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡮"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡯"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡰"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡱"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡲"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡳"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡴"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡵"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡶"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡷"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⡸"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⡹"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡺"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡻"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡼"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡽"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡾"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⡿"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢀"
+	d="M3-2h1v2h-1zM4-2h1v2h-1z"
+/><glyph
+	unicode="⢁"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢂"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⢃"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢄"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1z"
+/><glyph
+	unicode="⢅"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢆"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⢇"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢈"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢉"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢊"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢋"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢌"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢍"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢎"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢏"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢐"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢑"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢒"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢓"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢔"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢕"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢖"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢗"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢘"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢙"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢚"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢛"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢜"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢝"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢞"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢟"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢠"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⢡"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢢"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⢣"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢤"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⢥"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢦"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⢧"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢨"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢩"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢪"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢫"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢬"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢭"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢮"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢯"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢰"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢱"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢲"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢳"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢴"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢵"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢶"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⢷"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⢸"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢹"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢺"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢻"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢼"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢽"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢾"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⢿"
+	d="M3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣀"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1z"
+/><glyph
+	unicode="⣁"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣂"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⣃"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣄"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1z"
+/><glyph
+	unicode="⣅"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣆"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⣇"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣈"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣉"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣊"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣋"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣌"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣍"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣎"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣏"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣐"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣑"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣒"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣓"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣔"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣕"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣖"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣗"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣘"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣙"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣚"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣛"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣜"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣝"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣞"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣟"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣠"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⣡"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣢"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⣣"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣤"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1z"
+/><glyph
+	unicode="⣥"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣦"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1z"
+/><glyph
+	unicode="⣧"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣨"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣩"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣪"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣫"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣬"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣭"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣮"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣯"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣰"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣱"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣲"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣳"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣴"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣵"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣶"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1z"
+/><glyph
+	unicode="⣷"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1z"
+/><glyph
+	unicode="⣸"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣹"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣺"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣻"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣼"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣽"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣾"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="⣿"
+	d="M0-2h1v2h-1zM1-2h1v2h-1zM3-2h1v2h-1zM4-2h1v2h-1zM0,1h1v2h-1zM1,1h1v2h-1zM3,1h1v2h-1zM4,1h1v2h-1zM0,4h1v2h-1zM1,4h1v2h-1zM3,4h1v2h-1zM4,4h1v2h-1zM0,7h1v2h-1zM1,7h1v2h-1zM3,7h1v2h-1zM4,7h1v2h-1z"
+/><glyph
+	unicode="あ"
+	d="M1,0h1v1h-1zM4,0h1v3h-1zM0,1h1v2h-1zM2,1h1v6h-1zM1,4v-1h3v1zM0,6v-1h5v1z"
+/><glyph
+	unicode="い"
+	d="M2,0h1v1h-1zM1,1h1v1h-1zM3,1h1v1h-1zM0,2h1v5h-1zM4,4h1v2h-1zM3,6h1v1h-1z"
+/><glyph
+	unicode="お"
+	d="M1,0h1v7h-1zM3,0h1v1h-1zM0,1h1v2h-1zM4,1h1v2h-1zM2,4v-1h2v1zM0,6v-1h3v1zM5,5h1v1h-1zM4,6h1v1h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="か"
+	d="M0,0h1v1h-1zM3,1v-1h2v1zM1,1h1v6h-1zM4,1h1v4h-1zM0,6v-1h4v1zM5,6h1v1h-1zM4,7h1v1h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="が"
+	d="M0,0h1v1h-1zM3,1v-1h2v1zM1,1h1v6h-1zM4,1h1v4h-1zM0,6v-1h4v1zM5,6h1v1h-1zM4,7h1v1h-1zM5,8h1v2h-1zM7,8h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="き"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM1,3v-1h4v1zM3,3h1v2h-1zM0,5v-1h5v1zM2,5h1v3h-1zM0,7v-1h5v1z"
+/><glyph
+	unicode="ぎ"
+	d="M1,1v-1h3v1zM0,1h1v1h-1zM1,3v-1h4v1zM3,3h1v2h-1zM0,5v-1h5v1zM2,5h1v3h-1zM0,7v-1h5v1zM4,8h1v2h-1zM6,8h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="く"
+	d="M3,0h1v1h-1zM2,1h1v1h-1zM1,2h1v1h-1zM0,3h1v1h-1zM1,4h1v1h-1zM2,5h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="5"
+/><glyph
+	unicode="ぐ"
+	d="M3,0h1v1h-1zM2,1h1v1h-1zM1,2h1v1h-1zM0,3h1v1h-1zM1,4h1v1h-1zM4,4h1v2h-1zM6,4h1v2h-1zM2,5h1v1h-1zM3,6h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="け"
+	d="M0,0h1v7h-1zM3,0h1v1h-1zM1,1h1v1h-1zM4,1h1v6h-1zM2,6v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="げ"
+	d="M0,0h1v7h-1zM3,0h1v1h-1zM1,1h1v1h-1zM4,1h1v6h-1zM2,6v-1h4v1zM5,7h1v2h-1zM7,7h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="こ"
+	d="M1,1v-1h4v1zM0,1h1v2h-1zM1,3h1v1h-1zM3,4h1v2h-1zM0,6v-1h5v1z"
+/><glyph
+	unicode="ご"
+	d="M1,1v-1h4v1zM0,1h1v2h-1zM1,3h1v1h-1zM3,4h1v2h-1zM0,6v-1h5v1zM5,6h1v2h-1zM7,6h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="さ"
+	d="M1,1v-1h3v1zM0,1h1v2h-1zM3,2h1v5h-1zM1,4v-1h2v1zM0,6v-1h5v1z"
+/><glyph
+	unicode="ざ"
+	d="M1,1v-1h3v1zM0,1h1v2h-1zM3,2h1v5h-1zM1,4v-1h2v1zM0,6v-1h5v1zM5,6h1v2h-1zM7,6h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="し"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v1h-1zM4,2h1v1h-1z"
+/><glyph
+	unicode="じ"
+	d="M1,1v-1h2v1zM0,1h1v6h-1zM3,1h1v1h-1zM4,2h1v1h-1zM2,5h1v2h-1zM4,5h1v2h-1z"
+/><glyph
+	unicode="す"
+	d="M2,0h1v1h-1zM3,1h1v6h-1zM1,2h1v2h-1zM2,2h1v2h-1zM0,6v-1h6v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ず"
+	d="M2,0h1v1h-1zM3,1h1v6h-1zM1,2h1v2h-1zM2,2h1v2h-1zM0,6v-1h6v1zM5,7h1v2h-1zM7,7h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="せ"
+	d="M2,1v-1h3v1zM1,1h1v6h-1zM3,3v-1h2v1zM4,3h1v4h-1zM0,5v-1h6v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ぜ"
+	d="M2,1v-1h3v1zM1,1h1v6h-1zM3,3v-1h2v1zM4,3h1v4h-1zM0,5v-1h6v1zM5,7h1v2h-1zM7,7h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="そ"
+	d="M2,1v-1h3v1zM2,1h1v1h-1zM3,2h1v2h-1zM0,4v-1h6v1zM1,5v-1h2v1zM3,5h1v2h-1zM1,7v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ぞ"
+	d="M2,1v-1h3v1zM2,1h1v1h-1zM3,2h1v2h-1zM0,4v-1h6v1zM1,5v-1h2v1zM3,5h1v2h-1zM1,7v-1h4v1zM5,7h1v2h-1zM7,7h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="た"
+	d="M0,0h1v2h-1zM4,1v-1h2v1zM3,1h1v1h-1zM1,2h1v5h-1zM3,4v-1h3v1zM0,6v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="だ"
+	d="M0,0h1v2h-1zM4,1v-1h2v1zM3,1h1v1h-1zM1,2h1v5h-1zM3,4v-1h3v1zM0,6v-1h4v1zM4,6h1v2h-1zM6,6h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ち"
+	d="M1,1v-1h3v1zM4,1h1v2h-1zM1,2h1v5h-1zM2,4v-1h2v1zM0,6v-1h5v1z"
+/><glyph
+	unicode="ぢ"
+	d="M1,1v-1h3v1zM4,1h1v2h-1zM1,2h1v5h-1zM2,4v-1h2v1zM0,6v-1h5v1zM5,6h1v2h-1zM7,6h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="つ"
+	d="M1,1v-1h2v1zM3,1h1v1h-1zM4,2h1v3h-1zM0,6v-1h4v1z"
+/><glyph
+	unicode="づ"
+	d="M1,1v-1h2v1zM3,1h1v1h-1zM4,2h1v3h-1zM0,6v-1h4v1zM5,5h1v2h-1zM7,5h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="て"
+	d="M2,1v-1h3v1zM1,1h1v3h-1zM2,4h1v1h-1zM3,5h1v2h-1zM0,7v-1h5v1z"
+/><glyph
+	unicode="で"
+	d="M2,1v-1h3v1zM1,1h1v3h-1zM4,3h1v2h-1zM6,3h1v2h-1zM2,4h1v1h-1zM3,5h1v2h-1zM0,7v-1h5v1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="と"
+	d="M1,1v-1h4v1zM0,1h1v2h-1zM1,3h1v1h-1zM2,4h1v3h-1zM3,5v-1h2v1z"
+/><glyph
+	unicode="ど"
+	d="M1,1v-1h4v1zM0,1h1v2h-1zM1,3h1v1h-1zM2,4h1v3h-1zM3,5v-1h2v1zM4,6h1v2h-1zM6,6h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="な"
+	d="M2,0h1v3h-1zM3,1v-1h2v1zM0,1h1v2h-1zM4,1h1v3h-1zM5,1h1v1h-1zM3,2h1v1h-1zM1,3h1v4h-1zM0,6v-1h3v1zM5,5h1v1h-1zM4,6h1v1h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="に"
+	d="M0,0h1v7h-1zM4,1v-1h2v1zM1,1h1v1h-1zM3,1h1v1h-1zM3,6v-1h3v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ぬ"
+	d="M0,0h1v3h-1zM1,0h1v1h-1zM4,0h1v3h-1zM5,0h1v4h-1zM2,1h1v4h-1zM6,1h1v1h-1zM1,3h1v2h-1zM3,4h1v3h-1zM4,4h1v1h-1zM0,5h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ね"
+	d="M1,0h1v7h-1zM3,0h1v3h-1zM4,0h1v6h-1zM5,1h1v1h-1zM0,2h1v1h-1zM2,4h1v1h-1zM0,5h1v1h-1zM3,5h1v1h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="の"
+	d="M1,0h1v1h-1zM4,0h1v1h-1zM0,1h1v5h-1zM2,1h1v6h-1zM5,1h1v5h-1zM1,7v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="は"
+	d="M0,0h1v7h-1zM3,0h1v3h-1zM4,0h1v7h-1zM1,1h1v1h-1zM5,1h1v1h-1zM2,6v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ば"
+	d="M0,0h1v7h-1zM3,0h1v3h-1zM4,0h1v7h-1zM1,1h1v1h-1zM5,1h1v1h-1zM2,6v-1h4v1zM5,7h1v2h-1zM7,7h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="ぱ"
+	d="M0,0h1v7h-1zM3,0h1v3h-1zM4,0h1v7h-1zM1,1h1v1h-1zM5,1h1v1h-1zM2,6v-1h4v1zM5,7h1v3h-1zM6,8v-1h2v1zM7,8h1v2h-1zM6,9h1v1h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="ひ"
+	d="M1,1v-1h2v1zM0,1h1v4h-1zM3,1h1v6h-1zM5,4h1v1h-1zM1,5h1v2h-1zM4,5h1v1h-1zM0,6h1v1h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="び"
+	d="M1,1v-1h2v1zM0,1h1v4h-1zM3,1h1v6h-1zM5,4h1v1h-1zM1,5h1v2h-1zM4,5h1v1h-1zM0,6h1v1h-1zM4,7h1v2h-1zM6,7h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ぴ"
+	d="M1,1v-1h2v1zM0,1h1v4h-1zM3,1h1v6h-1zM5,4h1v1h-1zM1,5h1v2h-1zM4,5h1v1h-1zM0,6h1v1h-1zM4,7h1v3h-1zM5,8v-1h2v1zM6,8h1v2h-1zM5,9h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ふ"
+	d="M2,1v-1h2v1zM0,1h1v2h-1zM4,1h1v1h-1zM3,2h1v1h-1zM2,3h1v2h-1zM5,3h1v1h-1zM4,4h1v1h-1zM1,7v-1h3v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ぶ"
+	d="M2,1v-1h2v1zM0,1h1v2h-1zM4,1h1v1h-1zM3,2h1v1h-1zM2,3h1v2h-1zM5,3h1v1h-1zM4,4h1v1h-1zM1,7v-1h3v1zM5,6h1v2h-1zM7,6h1v2h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="ぷ"
+	d="M2,1v-1h2v1zM0,1h1v2h-1zM4,1h1v1h-1zM3,2h1v1h-1zM2,3h1v2h-1zM5,3h1v1h-1zM4,4h1v1h-1zM1,7v-1h3v1zM5,6h1v3h-1zM6,7v-1h2v1zM7,7h1v2h-1zM6,8h1v1h-1z"
+	horiz-adv-x="9"
+/><glyph
+	unicode="へ"
+	d="M5,1h1v1h-1zM0,2h1v1h-1zM4,2h1v1h-1zM1,3h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="べ"
+	d="M5,1h1v1h-1zM0,2h1v1h-1zM4,2h1v1h-1zM1,3h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1zM4,5h1v2h-1zM6,5h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ぺ"
+	d="M5,1h1v1h-1zM0,2h1v1h-1zM4,2h1v1h-1zM1,3h1v1h-1zM3,3h1v1h-1zM2,4h1v1h-1zM4,5h1v3h-1zM5,6v-1h2v1zM6,6h1v2h-1zM5,7h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ほ"
+	d="M0,0h1v7h-1zM3,0h1v3h-1zM4,0h1v7h-1zM1,1h1v1h-1zM5,1h1v1h-1zM2,5v-1h4v1zM2,7v-1h4v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode="ぼ"
+	d="M0,0h1v7h-1zM3,0h1v3h-1zM4,0h1v7h-1zM1,1h1v1h-1zM5,1h1v1h-1zM2,5v-1h4v1zM2,7v-1h4v1zM4,8h1v2h-1zM6,8h1v2h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ぽ"
+	d="M0,0h1v7h-1zM3,0h1v3h-1zM4,0h1v7h-1zM1,1h1v1h-1zM5,1h1v1h-1zM2,5v-1h4v1zM2,7v-1h4v1zM4,8h1v3h-1zM5,9v-1h2v1zM6,9h1v2h-1zM5,10h1v1h-1z"
+	horiz-adv-x="8"
+/><glyph
+	unicode="ま"
+	d="M0,1v-1h3v1zM4,0h1v1h-1zM0,2v-1h4v1zM2,2h1v5h-1zM0,4v-1h5v1zM0,6v-1h5v1z"
+/><glyph
+	unicode="み"
+	d="M3,0h1v1h-1zM0,1h1v3h-1zM1,1h1v3h-1zM4,1h1v5h-1zM2,3h1v4h-1zM3,4v-1h3v1zM0,7v-1h2v1z"
+	horiz-adv-x="7"
+/><glyph
+	unicode=""
+	d="M1,0v-1h7v1zM1,0h1v5h-1zM3,0h1v2h-1zM5,0h1v2h-1zM7,0h1v5h-1zM4,1h1v1h-1zM0,3h1v1h-1zM8,3h1v1h-1zM2,4h1v2h-1zM6,4h1v2h-1zM3,5h1v2h-1zM5,5h1v2h-1zM4,6h1v2h-1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode=""
+	d="M2,0v-1h5v1zM1,0h1v1h-1zM3,0h1v1h-1zM5,0h1v1h-1zM7,0h1v1h-1zM0,1h1v5h-1zM2,1h1v5h-1zM6,1h1v5h-1zM8,1h1v5h-1zM1,4v-1h7v1zM1,6h1v1h-1zM3,6h1v2h-1zM5,6h1v2h-1zM7,6h1v1h-1zM2,8v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode=""
+	d="M0,1v-1h9v1zM0,1h1v6h-1zM8,1h1v6h-1zM4,2h1v1h-1zM3,3h1v1h-1zM5,3h1v1h-1zM2,4h1v1h-1zM6,4h1v1h-1zM1,5h1v2h-1zM7,5h1v2h-1zM2,7v-1h5v1z"
+	horiz-adv-x="10"
+/><glyph
+	unicode=""
+	d="M3-1h1v3h-1zM4,0h1v1h-1zM0,1h1v7h-1zM1,2v-1h2v1zM5,2v-1h4v1zM8,2h1v6h-1zM2,4v-1h4v1zM2,6v-1h5v1zM1,8v-1h7v1z"
+	horiz-adv-x="10"
+/>
+</font></defs></svg>

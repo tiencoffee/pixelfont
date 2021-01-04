@@ -7,6 +7,6 @@
 	"settings": {},
 	"build_systems": [{
 		"name": "Build",
-		"shell_cmd": "lsc build"
+		"shell_cmd": "taskkill -f -im node.exe & cd $folder && live-server -q --host=localhost --no-browser --ignore=$folder/tmp,$folder/_.sublime-workspace"
 	}]
 }
